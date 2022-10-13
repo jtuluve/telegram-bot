@@ -7,4 +7,7 @@
   "routes": [
     { "src": "/(.*)", "dest": "/bot.js" }
   ]
+  "dependencies": {
+    "telegraf" : "3"
+  }
 }
