@@ -1,8 +1,8 @@
+
 {
   "name": "testbot",
-  "scripts": {
-              "start": "node bot.js"
-           },
-  "version": "1.0.0",
-  "author": "jtuluve"
+  "version": "0.0.1",
+  "dependencies": {
+    "telegraf": "^4.5.2"
+  }
 }
